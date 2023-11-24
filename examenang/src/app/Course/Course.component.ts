@@ -4,7 +4,7 @@ import { DataCourses } from './DataCourses';
 
 @Component({
   selector: 'app-Course',
-  //standalone: true,
+  //standalone: true ,
   templateUrl: './Course.component.html',
   styleUrls: ['./Course.component.css']
 })
